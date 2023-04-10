@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquín Ocampo</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Full stack developer from Argentina</h3>
 
 - 🔭 I’m currently working on [portfolio](https://github.com/JoaquinGabriel17/portfolio)
 
