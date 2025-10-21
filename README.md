@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Soy Joaquín Ocampo</h1>
-<h3 align="center">Un apasionado Full stack developer de Argentina</h3>
+<h3 align="center">Un apasionado desarrollador full stack</h3>
 
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-tan-one-66.vercel.app/](https://portfolio-tan-one-66.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-tan-one-66.vercel.app/](https://portfolio-three-mu-mbuc6vke30.vercel.app/)
 
 - 💬 Pregúntame acerca de **Javascript**
 
