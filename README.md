@@ -2,7 +2,7 @@
 <h3 align="center">Un apasionado desarrollador full stack</h3>
 
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-tan-one-66.vercel.app/](https://joaquin-ocampo.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://joaquin-ocampo.vercel.app/](https://joaquin-ocampo.vercel.app/)
 
 - 💬 Pregúntame acerca de **Javascript**
 
