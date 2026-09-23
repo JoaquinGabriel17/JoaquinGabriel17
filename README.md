@@ -1,4 +1,4 @@
-# ¡Hola! Soy Joaquin 👋
+# ¡Hola! Soy Joaquín 👋
  
 ## 🧑‍💻 Quién soy
 Soy un desarrollador full stack y estudiante de programación (UTN), con experiencia en soporte técnico y desarrollo de software. Me enfoco en construir aplicaciones web completas, desde el diseño de la base de datos y la API hasta la interfaz de usuario, y disfruto entender cómo funcionan las tecnologías por debajo de la superficie, no solo usarlas.
